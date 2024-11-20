@@ -35,7 +35,7 @@ html {
   width: 40%; /* 고정된 영역이 화면의 50% 차지 */
   height: 80vh; /* 고정된 영역의 높이를 화면의 80% 차지 */
   background: url("images/효민.png") center center;
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   /* filter: brightness(50%); */
   transition: all 0.3s;
